@@ -115,4 +115,3 @@ def lambda_handler(event, context=None):
             return {"statusCode": 500, "body": json.dumps(error_msg)}
 
     return {"statusCode": 200, "body": json.dumps("Processing complete")}
-
