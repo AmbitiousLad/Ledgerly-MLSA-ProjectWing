@@ -219,7 +219,7 @@ Once the Instance is Running and passed all system reachability checks, select I
 
 ```bash
 mkdir backend
-git clone https://github.com/sourasishbasu/ledgerly.git
+git clone https://github.com/AmbitiousLad/Ledgerly-MLSA-ProjectWing.git
 mv $HOME/ledgerly/monitoring/* $HOME/ledgerly/docker-compose.yml $HOME/backend
 ```
 
