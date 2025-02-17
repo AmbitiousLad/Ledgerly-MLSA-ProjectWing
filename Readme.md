@@ -63,8 +63,6 @@ All services are containerized using **Docker** to ensure availability, scalabil
 - **Backend Setup**: Instructions for setting up the backend services.
 - **Usage**: How to use Ledgerly to track expenses.
 - **Monitoring**: Insights into observability with Prometheus, Grafana, and GoAccess.
-- **Authors**: Project contributors.
-
 ---
 
 
